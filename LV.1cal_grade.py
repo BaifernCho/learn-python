@@ -1,5 +1,5 @@
 
-print(f"การคำนวณเกรด 5วิชา")
+print(f"การคำนวณเกรด")
 
 
 subject_all = ["THAI", "MATH", "ENGLISH", "SCIENCE", "SPORT"]
