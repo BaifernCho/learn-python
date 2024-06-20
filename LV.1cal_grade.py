@@ -19,3 +19,4 @@ gpa = sum(grade_all)/len(grade_all)
 print(f"GPA = {gpa}")
 
 
+
